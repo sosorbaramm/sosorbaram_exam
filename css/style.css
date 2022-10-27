@@ -135,4 +135,19 @@ nav a {
     margin: 30px;
     text-align: center;
     align-items: center;
+    color: gray;
+}
+
+.bottomsection {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 40px;
+    margin-left: 30px;
+    color: gray;
+}
+
+.bottomsection a {
+    color: gray;
+    text-decoration: none;
 }
